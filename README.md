@@ -8,5 +8,3 @@ Rx：RxJava、rxBind、rx-preferences、frodo <br/>
 异常崩溃界面：customactivityoncrash<br/>
 Json数据序列化工具：fastjson<br/>
 内存监测工具：leakcanary<br/>
-
-修改完成！
