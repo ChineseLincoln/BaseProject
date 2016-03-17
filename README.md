@@ -9,5 +9,4 @@ Rx：RxJava、rxBind、rx-preferences、frodo <br/>
 Json数据序列化工具：fastjson<br/>
 内存监测工具：leakcanary<br/>
 
-
-测试
+提交origin
